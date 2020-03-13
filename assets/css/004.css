@@ -1,0 +1,194 @@
+.no_padding_left{
+	padding-left: 0px;
+}
+
+.about.no_margin_bottom{
+	margin-bottom: 0px;
+}
+
+/*.customise_main_content .footer.row{
+	margin-right: 0px;
+}
+*/
+header{
+	background-image: url('../images4/mauvang.png');
+	background-size: 100% 100%;
+}
+
+.wraper_header{
+	background-color: rgba(0,0,0,0.1);
+}
+
+
+.customise-nav{
+	background-color: rgba(0,0,0,0.3);
+}
+
+.navbar-brand img{
+	width: 70%;
+}
+
+.customise-nav nav{
+	margin-right: 20%;
+	margin-left: 20%;
+	background-color: transparent;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+
+.customise_main_content{
+	padding: 0px 20%;
+	padding-bottom: 15px;
+
+}
+
+.customise_main_content .main_content{
+	padding: 0px 4%;
+	margin-top: 83px;
+	color: #fff;
+	font-size: 36px;
+	text-align: center;
+}
+
+.customise_main_content .footer{
+	/*padding: 0px 4%;*/
+	margin-top: 90px;
+}
+
+.customise_main_content .footer span{
+	font-size: 10px;
+	color: #fff;
+}
+
+.customise_button{
+	color: #fff;
+	background-color: #000;
+	font-size: 10px;
+	padding: 4px 12%;
+}
+
+/*============= body ================*/
+.customise_container{
+	padding: 0px 20%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.customise_container h2{
+	margin-top: 50px;
+	font-weight: bold;
+	font-size: 12px;
+	margin-bottom: 26px;
+}
+
+.customise_container p{
+	padding: 0px 4%;
+	text-align: justify;
+	font-size: 12px;
+	margin-bottom: 34px;
+	margin-top: 20px;
+}
+
+.customise_container p.prize{
+	margin-top: 0px;
+}
+
+.section2{
+	background-color: #eb976b;
+	padding-bottom: 20px;
+}
+
+.section2 p{
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 20px;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.section2 .img .content{
+	margin: 0px;
+	background-color: #000;
+	margin-top: 0px;
+	padding: 4px 5%;
+}
+
+.section2 .img .content p{
+	margin: 0px;
+	font-size: 13px;
+	padding: 0px;
+	text-align: left;
+	text-transform: none;
+	font-weight: normal;
+}
+
+.section2 .img .content span{
+	color: #fff;
+	font-size: 10px;
+}
+
+
+.horizonal_line{
+	margin-top: 16px;
+	background-color: #ff8700;
+	height: 1px;
+	width: 15%;
+}
+
+.section3{
+	background-color: #2a2a2a;
+	margin-top: 20px;
+	padding-bottom: 30px;
+}
+
+.section3 img{
+	margin-top: 27px;
+}
+
+.section3 p{
+	color: #fff;
+	font-size: 9px;
+	margin-top: 20px;
+	padding-bottom: 0px;
+}
+
+p.about{
+	text-align: center;
+	font-size: 10px;
+	line-height: 20px;
+}
+
+p.name{
+	margin-top: 10px;
+}
+/*
+.container-fluid{
+	padding: 0px;
+}*/
+
+footer{
+	background-color: #000;
+}
+
+.row_footer{
+	line-height: 37px;
+	/*line-height: 74px;*/
+	text-align: right;
+	/*padding-right: 0px;*/
+}
+
+.row_footer span{
+	color: #fff;
+	font-size: 8px;
+}
+
+
+
+
+
+
+
+
